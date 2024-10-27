@@ -1,0 +1,9 @@
+{
+	"[dark]": {
+		"table.alternateBackground": "#FFFFFF0A"
+	},
+
+	"[light]": {
+		"table.alternateBackground": "#0000000A"
+	}
+}

@@ -1,0 +1,16 @@
+{
+	"appname": "TinyMPCCreator",
+	"title": "Tiny MPC Media Creator",
+	"version": "0.1.21.Beta",
+	"author": "Adi Degani",
+	"author_email": "adid172@gmail.com",
+	"maintainer": "Adi Degani",
+	"maintainer_email": "adid172@gmail.com",
+	"copyright": "Copyright (c) 2024 Adi Degani",
+	"url": "https://github.com/airlobster/projects/tree/main/MPCMediaCreator",
+	"logsdir": "/tmp",
+	"font": {
+		"family": ".AppleSystemUIFont",
+		"pointSize": 13
+	}
+}
