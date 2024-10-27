@@ -23,5 +23,15 @@ OS/MacOS/bundle2.sh -o ~/Downloads/ -c -f
 ### System Requirements
 - Mac OS 14+ (*It might work properly on older Mac OS versions, but no such testing has been done.*)
 
+### Development Notes
+* Virtual Env.
+```
+    python3.11 -m venv .venv
+```
+* Run
+```
+    python main.py
+```
+
 ### Credits
 Developed by [Adi Degani](mailto:adid172@gmail.com)
