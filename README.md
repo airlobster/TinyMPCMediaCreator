@@ -15,6 +15,13 @@ Compiling a standalone Akai MPC's SD-card or a thumb-drive from a bunch of downl
 - Persistent app state and preferences
 - ...and more
 
+### Bundling and Installation
+Run
+```
+OS/MacOS/bundle2.sh -o ~/Downloads/ -c
+```
+The result dmg file will be in your Downloads directory.
+
 ### System Requirements
 - Mac OS 14+ (*It might work properly on older Mac OS versions, but no such testing has been done.*)
 
