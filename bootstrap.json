@@ -7,7 +7,7 @@
 	"maintainer": "Adi Degani",
 	"maintainer_email": "adid172@gmail.com",
 	"copyright": "Copyright (c) 2024 Adi Degani",
-	"url": "https://github.com/airlobster/projects/tree/main/MPCMediaCreator",
+	"url": "https://github.com/airlobster/TinyMPCMediaCreator.git",
 	"logsdir": "/tmp",
 	"font": {
 		"family": ".AppleSystemUIFont",
